@@ -1,0 +1,44 @@
+
+.formalumno{
+    text-align: center;
+    color: #9bce42;
+    box-shadow: 10px 10px 15px 10px #87e0ff;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 60px
+    
+}
+.contenido{
+    width: fit-content;
+    margin: 0 auto;
+    text-align: justify;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.date{
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.boton{
+    margin: 0 auto;
+    text-align: center
+}
+
+h3{
+    margin: 0 auto;
+    text-align: center;
+    color: #9bce42;
+    font-family: 'Maven Pro', sans-serif;
+}
+p{
+    margin: 0 auto;
+    text-align: center;
+    color: #2f96bb;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.tabla{
+    justify-content: center;
+    box-shadow: 5px 5px 15px 10px #cdcdce;
+}

@@ -1,0 +1,28 @@
+h1{
+    color: #9bce42;
+    font-family: 'Maven Pro'
+}
+
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.contact{
+    font-family: 'Maven Pro';
+    margin: 0 auto;
+    text-align: center;
+    color: #9bce42
+}
+
+p{
+    margin: 0 auto;
+    text-align: center;
+    color: #3592b4
+}
+
+.table{
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 5px
+}
